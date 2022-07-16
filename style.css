@@ -1,0 +1,344 @@
+.image{
+    background-image: url(donation1.jpg);
+    background-repeat: no-repeat;
+    width: 950px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    background-size:100% ;
+    margin-top:auto;
+    
+    
+}
+.ALLdivrapper{
+            float: left;
+           width:50%;
+           margin-left: 20%;
+           margin-top: 20px;
+           
+
+}
+.text{
+    
+    
+    width:220px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+}
+.scondndpart{
+     width: 200px;
+   margin-left: 50px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   display: inline;
+}
+.submit,button {
+    background-color: tomato;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 50 px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color:aliceblue;
+    font-weight:bold;
+    
+}
+.imagees{
+    
+
+    width: 950px;
+    height: 300px;
+    margin: auto;
+    display: block;
+    background-size: 100%;
+    
+    
+
+   
+}
+.center{
+   
+    margin-left: 30%;
+    overflow: hidden;
+    font-size: small;
+ 
+
+
+    
+}
+.center h1{
+    
+   
+    text-align: center;
+   
+   
+
+}
+.center h2{
+   
+    
+    font-size: small;
+    text-align: center;
+ 
+}
+.center h3{
+    
+    
+    font-size: small;
+    text-align: center;
+ 
+}
+.divrapper{
+    width: 200px;
+    background-color: brown;
+    height: 150px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    margin: auto;
+    padding: 10px 10px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 55px;
+    color: aliceblue;
+
+    
+    
+  
+
+}
+.content p{
+    font-size: 9px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: tomato;
+   color: white;
+    text-align: center;
+    margin-bottom: 0%;
+   
+   
+    margin-top: 20%;
+    height:45px;
+
+}
+.food h3{
+    margin-left: 10x;
+    font-size: 10px;
+    margin-top: 50px;
+    background-color:white;
+    margin-top: 30px;
+    
+  
+    
+   
+}
+.logo img{
+    background-repeat: no-repeat;
+    font-size: 10px;
+}
+.divrapper p{
+    font-size: 10px;
+  
+  
+}
+.ourdonateplan{
+   
+   
+    text-align: center;
+    display: flex;
+    padding: 10px;
+
+}
+.width{
+    width: 950px;
+    float: left;
+    height: 300px;
+    display: flex;
+    
+    margin-left: 150px;
+    padding: 40px;
+    
+    
+}
+.imagesizefixed img{
+    background-size: 50%;
+    background-repeat: no-repeat;
+    max-width:300px ;
+    margin-left: 100px;
+    margin-top: 10px;
+    height:280px ;
+    margin-bottom: 10px;
+    padding: opx 20px;
+    
+}
+.rapper{
+   
+    width:300px;
+    float: right;
+    font-size: 10px;
+    margin-left: 40px;
+    padding: 50px;
+    
+}
+.twopart button{
+   font-size: smaller;
+    width: 120px;
+}
+.twopart p{
+   color: rgb(0, 0, 0);
+   font-weight: 600;
+ }
+ .twopart h1{
+    color: rgb(13, 13, 13);
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  
+  .size{
+    width: 350px;
+    height: 100px;
+  }
+  .rightcontent img {
+   
+    background-size: 300px;
+    background-repeat: no-repeat;
+     width: 100%;
+   margin-left: 200px;
+     
+
+  }
+  .hightweight{
+    width: 350px;
+    height:100px;
+    
+
+  }
+  .divrapperr {
+    width: 100px;
+    background-color: brown;
+    height: 100px;
+    text-align: center;
+    display: inline;
+    float: left;
+    margin-left: 80px;
+   
+
+  }
+  .pera p{
+    margin-top: 43px;
+    color: aliceblue;
+  }
+  .otheramounttk{
+    
+   
+    border: 1px,solid,red;
+    display: block;
+    width: 300px;
+    border-bottom: 2px solid #ddd;
+    margin-left: 350px;
+    margin-top: 189px;
+    display: flex;
+  }
+  .sojahow{
+    font-size: smaller;
+    text-transform: uppercase;
+ margin-left: 80px;}
+.DonateNow{
+    width: 120px;
+    background-color: tomato;
+    padding: 2px;
+    border-radius: 2px;
+    margin-left: 450px;
+    margin-top: 20px;
+    
+
+}
+.DonateNow h1{
+font-size: smaller;
+color:white;
+margin-left: 25px;
+
+}
+.lastpart{
+    width: 950px;
+    height: 300px;
+    
+    margin-left: 150px;
+    
+    margin-top: 900px;
+}
+.conntent{
+    width: 300px;
+    height: 120px;
+   
+    padding: 0px 20px;
+   
+    margin: auto;
+
+}
+.conntent h1{
+text-transform: uppercase;
+text-align: center;
+}
+.emailsub{
+    width: 300px;
+    height: 120px;
+   
+    margin-left: 350px;
+    margin-top: 20px;
+    display: flex;
+
+}
+.Email h3{
+    
+   
+    display: inline;
+   
+    font-size: smaller;
+    margin-top: 100px;
+  
+  
+}
+.Email h4{
+    width: 300px;
+    
+    float: left;
+    margin-left: 80px;
+    font-size: smaller;
+    margin-bottom: 400px;
+    
+
+}
+.Email{
+    width: 300px;
+    background-color: aquamarine;
+    margin-top: 50px;
+    height: 70px;
+}
+.fotter{
+    width: 950px;
+    height: 100px;
+    margin-left: 150px;
+    background-color:black;
+    margin-top: 20px;
+    
+   
+display: flex;
+}
+.behumble{
+    width: 100px;
+   
+    display: block;
+    font-size: smaller;
+    margin-left: 400px;
+    margin-top: 20px;
+    color:white;
+   
+   
+}
